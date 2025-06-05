@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Foundation-Consolidation-Learning.iml" filepath="$PROJECT_DIR$/.idea/Foundation-Consolidation-Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/consolidation/consolidation.iml" filepath="$PROJECT_DIR$/consolidation/consolidation.iml" />
     </modules>
   </component>
